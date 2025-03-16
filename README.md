@@ -1,2 +1,2 @@
 # UW-Shoulder-Elbow
-A repository of shoulder and elbow information and tools for patients, physicians, and the public
+This is a repository of shoulder and elbow information and tools for patients, physicians, and the public. Here we share content commonly used by the University of Washington Shoulder and Elbow Team. It is freely accessible to all interested parties. The information and tools shared here are generic; they are not intended for application to any individual patient. Only the patient's treating physician can decide if they are appropriate for use in specific instances. The University of Washington and the creators of this content are not responsible for any adverse effects that may result from the material on this source.
